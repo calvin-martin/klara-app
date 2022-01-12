@@ -1,0 +1,46 @@
+{
+  "_index": "klara_os_test-test10",
+  "_type": "_doc",
+  "_id": "U_8Z33sBX1RrVJGNl82v",
+  "_version": 1,
+  "_score": 0,
+  "_source": {
+    "NPI": "1700873452",
+    "Entity Type Code": "1",
+    "Provider Last Name (Legal Name)": "BOYD",
+    "Provider First Name": "DEBBIE",
+    "Provider Middle Name": "L",
+    "Provider Name Prefix Text": "MRS.",
+    "Provider Credential Text": "CRNP",
+    "Provider First Line Business Mailing Address": "PO BOX 420",
+    "Provider Business Mailing Address City Name": "HAVRE DE GRACE",
+    "Provider Business Mailing Address State Name": "MD",
+    "Provider Business Mailing Address Postal Code": "210780420",
+    "Provider Business Mailing Address Country Code (If outside U.S.)": "US",
+    "Provider Business Mailing Address Telephone Number": "4109393121",
+    "Provider Business Mailing Address Fax Number": "4109398278",
+    "Provider First Line Business Practice Location Address": "308 N UNION AVE",
+    "Provider Business Practice Location Address City Name": "HAVRE DE GRACE",
+    "Provider Business Practice Location Address State Name": "MD",
+    "Provider Business Practice Location Address Postal Code": "210782825",
+    "Provider Business Practice Location Address Country Code (If outside U.S.)": "US",
+    "Provider Business Practice Location Address Telephone Number": "4109393121",
+    "Provider Business Practice Location Address Fax Number": "4109398278",
+    "Provider Enumeration Date": "09/28/2005",
+    "Last Update Date": "04/18/2011",
+    "Provider Gender Code": "F",
+    "Healthcare Provider Taxonomy Code_1": "363LX0001X",
+    "Provider License Number_1": "R063275",
+    "Provider License Number State Code_1": "MD",
+    "Healthcare Provider Primary Taxonomy Switch_1": "Y",
+    "Other Provider Identifier_1": "499251203",
+    "Other Provider Identifier Type Code_1": "05",
+    "Other Provider Identifier State_1": "MD",
+    "Is Sole Proprietor": "N"
+  },
+  "fields": {
+    "Last Update Date": [
+      "2011-01-01T00:00:00.000Z"
+    ]
+  }
+}
